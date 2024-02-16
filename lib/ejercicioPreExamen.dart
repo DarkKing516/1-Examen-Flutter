@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:si/segundaPagina.dart';
+import 'package:si/exmaneSecondPage.dart';
 
 void main() {
   runApp(const MyApp());
